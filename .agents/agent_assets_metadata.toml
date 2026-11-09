@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "rHLQtr9fR-_8gii-mz3yd"
+uri = "file://generated-artifacts/mizan-android.zip"
+type = "unspecified"
+title = "مشروع ميزان للأندرويد"
+description = "مشروع Kotlin كامل لفتح التطبيق في Android Studio، مع حفظ محلي وواجهة عربية تعمل دون اتصال."
+logical_id = "ecff0fee-ba5e-44e0-8964-e48684229294"
+content_hash = "sha256:a130c052ea1dec33418de2f8f9588653f0265c8b6aa3f7263448f992764d05b6"
+size = 13965
+mtime_ms = 1794241122427
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:160b36d3-317d-423b-ba77-e39d2b1d6285/ecff0fee-ba5e-44e0-8964-e48684229294/1c0a65b7-6dc2-4f07-a771-5cbf2db9fb13"
+storage_version_token = "1794241138873786"
+content_type = "application/octet-stream"
