@@ -38,6 +38,10 @@ node_modules
 /connect.lock
 /coverage
 /generated-artifacts/
+**/.gradle/
+**/build/
+local.properties
+*.iml
 /libpeerconnection.log
 npm-debug.log
 yarn-error.log
